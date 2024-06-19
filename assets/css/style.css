@@ -563,6 +563,7 @@ section {
 @media (max-width: 768px) {
   .hero {
     text-align: center;
+    height: auto;
   }
 
   .hero h1 {
